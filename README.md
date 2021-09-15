@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<iframe src="https://giphy.com/embed/hVEBWRInEvNOEVS18i" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cfdowningtown-welcome-cf-calvary-fellowship-hVEBWRInEvNOEVS18i">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/cfdowningtown-welcome-cf-calvary-fellowship-hVEBWRInEvNOEVS18i" alt="Welcome!" width="300"/>
 
 </div>
 
