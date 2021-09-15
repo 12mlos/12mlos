@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://giphy.com/gifs/cfdowningtown-welcome-cf-calvary-fellowship-hVEBWRInEvNOEVS18i" alt="Welcome!" width="300"/>
+<img src="https://media2.giphy.com/media/hVEBWRInEvNOEVS18i/giphy.gif?cid=ecf05e474l6k1x5sw4n5qccgb8wajle8y9ui4x93oxurk3zm&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
 
 </div>
 
